@@ -1,2 +1,2 @@
-# asm_course
+# asm_final_prj
 asm codes for asm course
